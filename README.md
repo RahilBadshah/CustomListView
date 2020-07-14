@@ -10,3 +10,6 @@ Custom Listview with custom design also supportable for API implementing
 
 ## Thanks
 * [Picasso][picasso] used for the sample (from Square)
+
+
+[picasso]: https://github.com/square/picasso
