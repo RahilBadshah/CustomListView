@@ -1,5 +1,5 @@
 # CustomListView
-Custom Listview with custom design also supportable for API implementing
+Custom Listview with custom design also supportable for API implementing.
 
 ## Android Screenshot
 <img src="/Image/Screenshot.jpg" width="300" height="600"> 
