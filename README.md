@@ -9,7 +9,7 @@ Custom Listview with custom design also supportable for API implementing
 * Add Picasso libreary to your app for loading online Image
 
 ## Thanks
-* [Picasso][picasso] used for the sample (from Square)
+* [Picasso][picasso] used for the sample 
 
 
 [picasso]: https://github.com/square/picasso
